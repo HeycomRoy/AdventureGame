@@ -1,0 +1,1302 @@
+<game state="0" level="2" >
+	<level size="18" >
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="water" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+	</level>
+	<level size="18" >
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+		<location type="grass" >
+		</location>
+	</level>
+</game>
